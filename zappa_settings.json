@@ -1,0 +1,12 @@
+{
+    "production": {
+        "app_function": "main.app",
+        "profile_name": "default",
+        "project_name": "i-magiccap",
+        "aws_region": "eu-west-1",
+        "runtime": "python3.6",
+        "s3_bucket": "zappa-oajmyjjd6",
+        "certificate_arn": "arn:aws:acm:us-east-1:211974291535:certificate/b43139ec-4a1c-4610-84f0-aa1ce1ab163d",
+        "domain": "i.magiccap.me"
+    }
+}

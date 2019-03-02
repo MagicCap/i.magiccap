@@ -1,0 +1,5 @@
+pynamodb
+requests
+boto3
+flask
+zappa
